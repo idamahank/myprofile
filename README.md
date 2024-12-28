@@ -1,4 +1,4 @@
-# Hello, I'm Idamahank 👋
+# Hello, I'm Ida Maria 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and technology. Here's a little bit about me:
 
